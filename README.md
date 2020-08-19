@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, VueJS
 - 📫 How to reach me: [@03ritikpatni](https://twitter.com/03ritikpatni)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm a culé ❤️💙
-
+<!--- - ⚡ Fun fact: I'm a culé ❤️💙
+-->
 ![RitikPatni's github stats](https://github-readme-stats.vercel.app/api?username=RitikPatni&show_icons=true)
