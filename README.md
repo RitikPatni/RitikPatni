@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 <!--- - ⚡ Fun fact: I'm a culé ❤️💙
 -->
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=btvihamfrzj0zh3es4hii1puo&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=btvihamfrzj0zh3es4hii1puo&cover_image=true)
 ![RitikPatni's github stats](https://github-readme-stats.vercel.app/api?username=RitikPatni&show_icons=true)
