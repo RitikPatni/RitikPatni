@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p><img src=https://komarev.com/ghpvc/?username=RitikPatni alt=RitikPatni/></p>
 
 Here are some ideas to get you started:
 
